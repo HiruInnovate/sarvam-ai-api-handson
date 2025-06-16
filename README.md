@@ -18,7 +18,6 @@ Go to https://dashboard.sarvam.ai/ and get your SARVAM_API_KEY and paste it in t
 Then explore the models in the notebook. Also brain storm on the use cases, it will help you to create new solutions,
 Happy innovating!!
 
-```
 # About me
 I am `Hiranmoy Goswami`, I am passionate about `AI/ML/DL` , `Generative AI applications` and their use in different domains, I also love to build `web applications` using `Java, React`, I have backend development experience with Java[Microservices]. For any work, you can reach out to me at...
 
